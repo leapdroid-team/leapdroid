@@ -1,0 +1,6 @@
+{
+  "name": "Leapdroid",
+  "tagline": "Leapdroid Android emulator",
+  "body": "Leapdroid Android Emulator\r\n\r\nLeapdroid is an Android emulator running on desktop, see www.leapdroid.com. It runs the whole Android system on desktop PC. Most people use Leapdroid to play Android games with bigger screens.\r\n\r\nThe architecture of Leapdroid is simple: Virtual box as VM engine, and modified Android as guest image. On top of that, we developed state-of-the-art virtual machine technologies to improve performance, user experience and gaming compatibility. Some of our key technical components are:\r\n\r\n- LeapGL, a cross platform OpenGL translator that enables us to run OpenGL ES natively on host desktop.\r\n- LeapIO, a light weight RPC infrastructure between guest and host. Our Adb and other services are built on top of LeapIO.\r\n\r\nWe plan to open source some of our technologies to benefit the community. Contact us at support@leapdroid.com if you would like to contribute.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
