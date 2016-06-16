@@ -7,3 +7,5 @@ including memory reducton, bug fixes, etc.
 
 We plan to open source some parts of LeapGL based on AOSP 4.4 tree.
 
+LeapGL is used by Leapdroid emulator at http://www.leapdroid.com
+
